@@ -2,7 +2,7 @@
 
 Personal portfolio website showcasing my projects, skills, and experience as an AI engineer.
 
-🔗 **Live:** [tarikuanisgnawa.dev](https://tarikuanisgnawa.dev) 
+🔗 **Live:** [tarikuamisganaw.dev](https://tarikuamisganaw.dev) 
 ## 🛠️ Tech Stack
 
 - **Frontend:** React, Vite
