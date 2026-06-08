@@ -25,7 +25,7 @@ const portfolio = {
   github: 'https://github.com/tarikuamisganaw',
   linkedin: 'https://www.linkedin.com/in/tarikua-misganaw-307769258/',
   summary:
-    'I’m an AI Engineer with 2 years experience at iCog Labs, focused on building production-ready LLM applications, RAG architectures, and self-verifying AI agents. My work includes designing grounded retrieval pipelines, orchestrating explainable agentic workflows, and developing a certificate-driven RL framework for safe, verifiable skill reuse. I’ve also optimized search and pattern-discovery algorithms to boost accuracy and reduce system failures. I have also contributed to AI-powered graph motif interpretation systems. I’m seeking ML/AI Engineer roles where I can design, deploy, and scale dependable, real-world AI products.',
+    'I’m an AI Engineer, focused on building production-ready LLM applications, RAG architectures, and self-verifying AI agents. My work includes designing grounded retrieval pipelines, orchestrating explainable agentic workflows, and developing a certificate-driven RL framework for safe, verifiable skill reuse. I’ve also optimized search and pattern-discovery algorithms to boost accuracy and reduce system failures. I have also contributed to AI-powered graph motif interpretation systems. I’m seeking ML/AI Engineer roles where I can design, deploy, and scale dependable, real-world AI products.',
   focus: [
     'Reliable AI systems',
     'RAG applications',
